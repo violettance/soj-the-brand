@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: exampleSite/content/mum
+  label: Soy Candle Data
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - soya-mumlari
 - type: heading
   label: Soya Mumları
 - type: document
