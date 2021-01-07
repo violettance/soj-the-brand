@@ -1,4 +1,37 @@
 ---
 label: Soya Mumları
 hide_body: false
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: text-area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text-area
+- name: text-field
+  type: text
+  config:
+    required: false
+  label: text-field
+- name: numeric
+  type: number
+  label: numeric
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: tag-field
+  type: tag_list
+  default: []
+  label: tag-field
