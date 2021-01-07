@@ -19,6 +19,10 @@ name = "Sipariş Ver"
 URL = "blog"
 name = "Blog"
 [[menu.main]]
+URL = "sojcandle.netlify.app"
+name = "SOJ"
+weight = "1"
+[[menu.main]]
 URL = "pricing"
 name = "Sipariş Ver"
 weight = "1"
