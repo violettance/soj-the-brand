@@ -1,7 +1,7 @@
 +++
 description = ""
 subtitle = ""
-title = ""
+title = "Soya Mumları"
 [basic]
 image = "/images/img_0365.JPG"
 info = ""
