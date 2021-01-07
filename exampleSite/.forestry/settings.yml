@@ -46,7 +46,7 @@ sections:
 - type: heading
   label: Sipariş
 - type: directory
-  path: exampleSite/content/sipariş
+  path: exampleSite/content/pricing
   label: Sipariş
   create: all
   match: "**/*"
@@ -55,7 +55,7 @@ sections:
   templates:
   - siparis
 - type: document
-  path: exampleSite/content/sipariş/_index.md
+  path: exampleSite/content/pricing/_index.md
   label: Sipariş
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
