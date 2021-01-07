@@ -1,5 +1,4 @@
 +++
-draft = true
 image = "/images/img_0365.JPG"
 numeric = nil
 tag-field = ["tarçın ", "vanilya"]
