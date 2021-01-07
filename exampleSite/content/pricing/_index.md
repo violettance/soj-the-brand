@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Soya Mumları
 subtitle: ''
 description: This is meta description
 basic:
