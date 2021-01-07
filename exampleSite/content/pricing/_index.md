@@ -54,5 +54,10 @@ call_to_action:
     label: Ürünleri İncele
     link: ''
 image_all: "/images/img_0365.JPG"
+menu:
+  main:
+    URL: faq
+    name: Sipariş Ver
+    weight: 2
 
 ---

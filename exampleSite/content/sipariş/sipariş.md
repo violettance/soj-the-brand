@@ -33,10 +33,6 @@ title = ""
 enable = false
 label = ""
 link = ""
-[menu.main]
-URL = "faq"
-name = "Sipariş Ver"
-weight = 2
 [professional]
 image = ""
 info = ""
