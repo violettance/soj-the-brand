@@ -1,16 +1,15 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
-  image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  title: Vegan ve minimal tasarımlı <br> SOJ mumlara merhaba de!
+  image: ''
+  content: Midday Sun, Arctic Night ve Almost Dusk'ın evinin havasını değiştirmesine
+    hazır mısın?
   button:
     enable: true
-    label: Contact With Us
-    link: contact
+    label: Ürünleri İncele
+    link: pricing
 feature:
-  enable: true
+  enable: false
   title: Something You Need To Know
   feature_item:
   - name: Clean Code
@@ -32,7 +31,7 @@ feature:
     icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
-  enable: true
+  enable: false
   service_item:
   - title: It is the most advanced digital marketing and it company.
     images:
@@ -86,8 +85,8 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
+  title: ''
+  image: "/images/4845876.jpg"
 call_to_action:
   enable: true
   title: Sürdürülebilir tüketim için vegan içerikli soya mumları
@@ -95,5 +94,5 @@ call_to_action:
   content: ''
   button:
     enable: true
-    label: Ürünler İnceler
+    label: Sipariş Ver
     link: pricing
