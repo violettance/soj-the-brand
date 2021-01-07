@@ -54,7 +54,7 @@ enable = false
 preloader = ""
 [[params.social]]
 icon = "ti-email"
-link = "sojcandle@gmail.com"
+link = "mailto:sojcandle@gmail.com"
 title = "e-mail"
 [[params.social]]
 icon = "ti-facebook"
