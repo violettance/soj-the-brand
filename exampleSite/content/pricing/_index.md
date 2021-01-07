@@ -31,6 +31,7 @@ professional:
     enable: true
     label: Get started for free
     link: "#"
+  image: ''
 business:
   name: Business Plan
   price: "$49"
@@ -44,6 +45,7 @@ business:
     enable: true
     label: Get started for free
     link: "#"
+  image: ''
 call_to_action:
   enable: true
   title: Need a larger plan?
@@ -54,5 +56,6 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
+image_all: "/images/img_0365.JPG"
 
 ---
