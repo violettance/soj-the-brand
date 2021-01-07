@@ -43,6 +43,16 @@ sections:
 - type: document
   path: exampleSite/content/contact/_index.md
   label: İletişim
+- type: heading
+  label: Sipariş
+- type: directory
+  path: exampleSite/content/sipariş
+  label: Sipariş
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - siparis
 - type: document
   path: exampleSite/content/sipariş/_index.md
   label: Sipariş
