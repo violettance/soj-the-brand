@@ -7,7 +7,6 @@ sections:
 - type: document
   path: exampleSite/content/mum/_index.md
   label: Soya Mumları
-  match: "**/*"
 - type: heading
   label: Homepage
 - type: document
