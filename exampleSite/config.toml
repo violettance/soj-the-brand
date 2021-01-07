@@ -71,9 +71,9 @@ link = "plugins/slick/slick.min.js"
 enable = false
 preloader = ""
 [[params.social]]
-icon = "ti-phone"
-link = "callto:05387608085"
-title = "call"
+icon = "ti-infinite"
+link = "https://wa.me/05387608085/"
+title = "whatsapp"
 [[params.social]]
 icon = "ti-email"
 link = "mailto:sojcandle@gmail.com"
